@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a unity developer since 2020 and you are my guest, enjoy
 
 <!--
 **TerryCatty/terrycatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
